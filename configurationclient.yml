@@ -3,4 +3,4 @@ configuration:
 server:  
   port: 8000
 message:  
-  greeting: Hello from updated configuration server properties
+  greeting: Hello from configuration server properties
